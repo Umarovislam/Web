@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tariffs>
+    <TariffBonus>
+        <costTariff>1000</costTariff>
+        <costMinuteInNet>100</costMinuteInNet>
+        <costSms>150</costSms>
+        <costMegabyte>200</costMegabyte>
+        <species>SMART</species>
+        <packageInternet>1024</packageInternet>
+        <packageMinute>30</packageMinute>
+    </TariffBonus>
+    <TariffBonus>
+        <costTariff>100</costTariff>
+        <costMinuteInNet>200</costMinuteInNet>
+        <costSms>200</costSms>
+        <costMegabyte>300</costMegabyte>
+        <species>MEGA</species>
+        <packageInternet>2048</packageInternet>
+        <packageMinute>60</packageMinute>
+    </TariffBonus>
+    <TariffBonus>
+        <costTariff>2000</costTariff>
+        <costMinuteInNet>150</costMinuteInNet>
+        <costSms>200</costSms>
+        <costMegabyte>250</costMegabyte>
+        <species>ABSOLUTE</species>
+        <packageInternet>1024</packageInternet>
+        <packageMinute>90</packageMinute>
+    </TariffBonus>
+    <TariffBonus>
+        <costTariff>500</costTariff>
+        <costMinuteInNet>100</costMinuteInNet>
+        <costSms>110</costSms>
+        <costMegabyte>150</costMegabyte>
+        <species>SMARTMINI</species>
+        <packageInternet>2048</packageInternet>
+        <packageMinute>90</packageMinute>
+    </TariffBonus>
+</tariffs>

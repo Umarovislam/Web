@@ -1,0 +1,4 @@
+2018-12-19 10:53:55 [main] DEBUG  client.Client - Initialize tariff bonuses and add them to list.
+2018-12-19 10:53:55 [main] DEBUG  client.Client - Searching result by cost sms.
+2018-12-19 10:53:55 [main] DEBUG  client.Client - Searching result by package minutes.
+2018-12-19 10:53:55 [main] DEBUG  client.Client - Sorting by cost of tariff.
