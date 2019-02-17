@@ -2,283 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4104f55-5ddb-46d4-97c7-8561c54ed1d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/_name" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/dictionaries/Islam.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/dictionaries/Islam.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/RIPS2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/RIPS2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Controller/Demonstrate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Controller/Demonstrate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/AccountBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/AccountBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Customer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Customer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Customer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Customer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Legal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Legal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Model/Phisic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Model/Phisic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/out/production/RIPS2/View/BankAccaunt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/out/production/RIPS2/View/BankAccaunt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Controller/Demonstrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Controller/Demonstrate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Model/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Model/AccountBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Model/AccountBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Model/Legal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Model/Legal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/Model/Phisic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/Model/Phisic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RIPS/src/View/BankAccaunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RIPS/src/View/BankAccaunt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/.idea/_name" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/.idea/_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/RiPS1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/RiPS1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/out/production/RiPS1/Constuctor/ComplexNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/out/production/RiPS1/Constuctor/ComplexNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/out/production/RiPS1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/out/production/RiPS1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/out/production/RiPS1/Structure/Rational.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/out/production/RiPS1/Structure/Rational.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/src/Constuctor/Blabla.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/src/Constuctor/Blabla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/src/Constuctor/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/src/Constuctor/ComplexNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS1/src/Structure/Rational.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS1/src/Structure/Rational.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/RiPS4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/RiPS4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/out/production/RiPS4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/out/production/RiPS4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/out/production/RiPS4/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/out/production/RiPS4/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/out/production/RiPS4/Task" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/out/production/RiPS4/Task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/out/production/RiPS4/WareHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/out/production/RiPS4/WareHouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/src/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RiPS4/src/WareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/RiPS4/src/WareHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/Web5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/Web5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/out/production/Web5/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/out/production/Web5/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/out/production/Web5/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/out/production/Web5/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/src/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5/src/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/Web5_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/Web5_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/out/production/Web5_2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/out/production/Web5_2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/out/production/Web5_2/META-INF/Web5_2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/out/production/Web5_2/META-INF/Web5_2.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/out/production/Web5_2/by/red/chap9/nio/selectorserver/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/out/production/Web5_2/by/red/chap9/nio/selectorserver/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/src/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_2/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_2/src/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_3/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web5_3/Web5_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web5_3/Web5_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/.idea/libraries/libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/Web6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/Web6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/libs/log4j-api-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/libs/log4j-api-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/libs/log4j-core-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/libs/log4j-core-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/logs/2018-12-19/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/logs/2018-12-19/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/logs/2018-12-21/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/logs/2018-12-21/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/client/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/Absolute.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/Absolute.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/ManagerBuilder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/ManagerBuilder$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/ManagerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/ManagerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/Mega.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/Mega.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/Smart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/Smart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/builder/SmartMini.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/builder/SmartMini.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/model/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/model/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/rmi_interface/RMITariffManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/rmi_interface/RMITariffManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/server/TariffManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/server/TariffManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/server/sort/SortByCostTariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/server/sort/SortByCostTariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/out/production/Web6/server/sort/SortBySpecies.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/out/production/Web6/server/sort/SortBySpecies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/Absolute.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/Absolute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/ManagerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/ManagerBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/Mega.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/Mega.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/Smart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/Smart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/builder/SmartMini.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/builder/SmartMini.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/tariff/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/tariff/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/tariff/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/tariff/Tariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/model/tariff/TariffBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/model/tariff/TariffBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/rmi_interface/RMITariffManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/rmi_interface/RMITariffManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/server/TariffManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/server/TariffManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/server/sort/SortByCostTariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/server/sort/SortByCostTariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web6/src/server/sort/SortBySpecies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web6/src/server/sort/SortBySpecies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/.idea/libraries/libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/Web7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/Web7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/logs/2018-12-19/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/logs/2018-12-19/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/logs/2018-12-21/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/logs/2018-12-21/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/logs/2018-12-22/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/logs/2018-12-22/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/logs/2018-12-26/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/logs/2018-12-26/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/logic/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/logic/Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/readers/dom/ReaderDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/readers/dom/ReaderDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/readers/sax/MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/readers/sax/MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/readers/sax/ReaderSAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/readers/sax/ReaderSAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/readers/stax/ReaderStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/readers/stax/ReaderStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/validation/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/validation/Validation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/out/production/Web7/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/out/production/Web7/view/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/schema.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/logic/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/logic/Logic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/readers/dom/ReaderDOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/readers/dom/ReaderDOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/readers/sax/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/readers/sax/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/readers/sax/ReaderSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/readers/sax/ReaderSAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/readers/stax/ReaderStAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/readers/stax/ReaderStAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/tariff/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/tariff/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/tariff/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/tariff/Tariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/tariff/TariffBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/tariff/TariffBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/validation/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/validation/Validation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/src/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7/tariffs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7/tariffs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/.idea/libraries/libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/Web7Dop3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/Web7Dop3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/libs/log4j-api-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/libs/log4j-api-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/libs/log4j-core-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/libs/log4j-core-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/logs/2018-12-23/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/logs/2018-12-23/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/logic/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/logic/Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/marshaller/JaxbWorker$TariffBonusList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/marshaller/JaxbWorker$TariffBonusList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/marshaller/JaxbWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/marshaller/JaxbWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/readers/dom/ReaderDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/readers/dom/ReaderDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/readers/sax/MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/readers/sax/MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/readers/sax/ReaderSAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/readers/sax/ReaderSAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/readers/stax/ReaderStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/readers/stax/ReaderStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/validation/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/validation/Validation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/out/production/Web7Dop3/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/out/production/Web7Dop3/view/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/schema.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/logic/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/logic/Logic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/marshaller/JaxbWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/marshaller/JaxbWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/readers/dom/ReaderDOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/readers/dom/ReaderDOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/readers/sax/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/readers/sax/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/readers/sax/ReaderSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/readers/sax/ReaderSAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/readers/stax/ReaderStAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/readers/stax/ReaderStAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/tariff/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/tariff/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/tariff/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/tariff/Tariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/tariff/TariffBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/tariff/TariffBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/validation/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/validation/Validation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/src/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop3/tariffs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop3/tariffs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/.idea/libraries/libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/Web7Dop4_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/Web7Dop4_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/libs/log4j-api-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/libs/log4j-api-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/libs/log4j-core-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/libs/log4j-core-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/logs/2018-12-24/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/logs/2018-12-24/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/logs/2018-12-26/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/logs/2018-12-26/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/converter/ConverterXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/converter/ConverterXML.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/logic/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/logic/Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/readers/dom/ReaderDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/readers/dom/ReaderDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/readers/sax/MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/readers/sax/MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/readers/sax/ReaderSAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/readers/sax/ReaderSAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/readers/stax/ReaderStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/readers/stax/ReaderStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/validation/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/validation/Validation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/out/production/Web7Dop4_1/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/out/production/Web7Dop4_1/view/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/schema.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/converter/ConverterXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/converter/ConverterXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/logic/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/logic/Logic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/readers/dom/ReaderDOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/readers/dom/ReaderDOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/readers/sax/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/readers/sax/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/readers/sax/ReaderSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/readers/sax/ReaderSAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/readers/stax/ReaderStAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/readers/stax/ReaderStAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/tariff/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/tariff/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/tariff/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/tariff/Tariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/tariff/TariffBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/tariff/TariffBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/validation/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/validation/Validation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/src/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/stylesheet.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/stylesheet.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/tariffTable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/tariffTable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop4_1/tariffs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop4_1/tariffs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/.idea/libraries/libs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/Web7Dop_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/Web7Dop_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/libs/log4j-api-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/libs/log4j-api-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/libs/log4j-core-2.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/libs/log4j-core-2.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/logs/2018-12-23/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/logs/2018-12-23/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/logs/2018-12-26/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/logs/2018-12-26/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/logic/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/logic/Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/readers/dom/ReaderDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/readers/dom/ReaderDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/readers/sax/MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/readers/sax/MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/readers/sax/ReaderSAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/readers/sax/ReaderSAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/readers/stax/ReaderStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/readers/stax/ReaderStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/validation/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/validation/Validation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/view/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/writers/WriterDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/writers/WriterDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/Web7Dop_2/writers/WriterStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/Web7Dop_2/writers/WriterStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/logic/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/logic/Logic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/readers/dom/ReaderDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/readers/dom/ReaderDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/readers/sax/MyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/readers/sax/MyHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/readers/sax/ReaderSAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/readers/sax/ReaderSAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/readers/stax/ReaderStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/readers/stax/ReaderStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/tariff/Species.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/tariff/Species.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/tariff/Tariff.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/tariff/Tariff.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/tariff/TariffBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/tariff/TariffBonus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/validation/Validation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/validation/Validation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/view/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/writers/WriterDOM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/writers/WriterDOM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/out/production/pd7/writers/WriterStAX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/out/production/pd7/writers/WriterStAX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/schema.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/schema.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/logic/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/logic/Logic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/readers/dom/ReaderDOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/readers/dom/ReaderDOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/readers/sax/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/readers/sax/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/readers/sax/ReaderSAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/readers/sax/ReaderSAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/readers/stax/ReaderStAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/readers/stax/ReaderStAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/tariff/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/tariff/Species.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/tariff/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/tariff/Tariff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/tariff/TariffBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/tariff/TariffBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/validation/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/validation/Validation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/writers/WriterDOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/writers/WriterDOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/src/writers/WriterStAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/src/writers/WriterStAX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web7Dop_2/tariffs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web first semester/Web7Dop_2/tariffs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAO/ListOfFree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web2_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Web2_1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -286,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -318,12 +47,80 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/database.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DAO/ListOfFree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Connection/Connections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Configuration/ConfigurationManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-629">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1384#1385#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+                <element signature="e#1541#1542#0" expanded="true" />
+                <element signature="e#1583#1584#0" expanded="true" />
+                <element signature="e#1698#1699#0" expanded="true" />
+                <element signature="e#1737#1738#0" expanded="true" />
+                <element signature="e#1873#1874#0" expanded="true" />
+                <element signature="e#1921#1922#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web2_1.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Connection/JDBCConnectionException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -331,31 +128,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console_1.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/customer">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DAOException</find>
+      <find>JDBCConnectionException</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DAOExep</replace>
+      <replace>ConnectionExep</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -364,8 +161,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/database.properties" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console_1.sql" />
+        <option value="$PROJECT_DIR$/src/DAO/DAOExep.java" />
+        <option value="$PROJECT_DIR$/src/DAO/Dao.java" />
+        <option value="$PROJECT_DIR$/src/DAO/ListOfFree.java" />
+        <option value="$PROJECT_DIR$/src/Connection/ConnectionExep.java" />
+        <option value="$PROJECT_DIR$/src/Connection/JDBCConnectionException.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console.sql" />
+        <option value="$PROJECT_DIR$/Web2_1.iml" />
+        <option value="$PROJECT_DIR$/src/Configuration/ConfigurationManager.java" />
+        <option value="$PROJECT_DIR$/src/Connection/Connections.java" />
       </list>
     </option>
   </component>
@@ -381,12 +186,15 @@
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -400,21 +208,29 @@
               <item name="Web2_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Web2_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web2_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Connection" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550265248185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550418830803" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="database.data.csv.formats" />
   </component>
   <component name="RunDashboard">
@@ -440,26 +256,27 @@
       <option name="presentableId" value="Default" />
       <updated>1550258195626</updated>
       <workItem from="1550258215516" duration="106000" />
-      <workItem from="1550258710439" duration="6320000" />
+      <workItem from="1550258710439" duration="6509000" />
+      <workItem from="1550299981796" duration="6761000" />
+      <workItem from="1550411969358" duration="81000" />
+      <workItem from="1550412338977" duration="3975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6426000" />
+    <option name="totallyTimeSpent" value="17432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" visible="true" weight="0.32718894" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -472,6 +289,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="12" visible="true" weight="0.32718894" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,9 +341,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Web2_1.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/request.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -553,13 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/client">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/client" />
     <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/checks">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -574,33 +384,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console_1.sql">
+    <entry file="file://$PROJECT_DIR$/src/DAO/DAOExep.java" />
+    <entry file="file://$PROJECT_DIR$/src/DAO/Dao.java" />
+    <entry file="file://$PROJECT_DIR$/src/DAO/ListOfFree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console.sql">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console_1.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="das://762104aa-ea46-45c2-8484-51997495d67f/schema/hoteldb/table/customer">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
-          <filtering enabled="true" />
+          <filtering enabled="true">
+            <filter text="FirstName = 'German'" />
+          </filtering>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/database.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/762104aa-ea46-45c2-8484-51997495d67f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7680.30132/2web_lab1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web2_1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/JDBCConnectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Configuration/ConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1737#1738#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1921#1922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/Connections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web2_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
