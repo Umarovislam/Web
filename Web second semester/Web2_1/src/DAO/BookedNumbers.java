@@ -15,13 +15,13 @@ public class BookedNumbers extends Dao{
     public BookedNumbers() throws Exception {
         super();
     }
-    ArrayList<Number> getFreeNumbers() throws DaoException{
+    public ArrayList<Number> getFreeNumbers() throws DaoException{
         Number number= null;
         ArrayList<Number>numbers = new ArrayList<>();
         Connection cn = null;
         PreparedStatement pstmt = null;
         try {
-            cn = con.getConnection();
+            cn = con.getConnections();
             pstmt = cn.prepareStatement(req);
             pstmt.setBoolean(1, true);
             ResultSet res = pstmt.executeQuery();

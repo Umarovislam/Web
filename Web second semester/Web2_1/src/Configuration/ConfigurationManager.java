@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 public class ConfigurationManager {
         public static final ConfigurationManager INSTANCE = new ConfigurationManager();
 
-        ResourceBundle resource = ResourceBundle.getBundle("database");
+        ResourceBundle resource = ResourceBundle.getBundle("database.properties");
         String driverName = resource.getString("driver");
         String URL = resource.getString("url");
         String login = resource.getString("login");
