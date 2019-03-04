@@ -1169,135 +1169,102 @@
       <DataType>varchar(20)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="293" parent="281" name="request">
-      <Position>4</Position>
-      <DataType>tinyint(1)|0s</DataType>
-      <DefaultExpression>0</DefaultExpression>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="294" parent="281" name="request_id">
-      <Position>5</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="295" parent="281" name="request_checks_id">
-      <Position>6</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <index id="296" parent="281" name="fk_customer_request1_idx">
-      <ColNames>request_id
-request_checks_id</ColNames>
-      <Type>btree</Type>
-    </index>
-    <key id="297" parent="281" name="PRIMARY">
+    <key id="293" parent="281" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
-      <ColNames>id
-request_id
-request_checks_id</ColNames>
+      <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="298" parent="281" name="fk_customer_request1">
-      <ColNames>request_id
-request_checks_id</ColNames>
-      <RefSchemaName>hoteldb</RefSchemaName>
-      <RefTableName>request</RefTableName>
-      <RefColNames>id
-checks_id</RefColNames>
-    </foreign-key>
-    <column id="299" parent="282" name="id">
+    <column id="294" parent="282" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="300" parent="282" name="no">
+    <column id="295" parent="282" name="no">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="301" parent="282" name="free">
+    <column id="296" parent="282" name="free">
       <Position>3</Position>
       <DataType>tinyint(1)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="302" parent="282" name="CustomId">
+    <column id="297" parent="282" name="CustomId">
       <Position>4</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="303" parent="282" name="request_id">
+    <column id="298" parent="282" name="request_id">
       <Position>5</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="304" parent="282" name="fk_number_request_idx">
+    <index id="299" parent="282" name="fk_number_request_idx">
       <ColNames>request_id</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="305" parent="282" name="PRIMARY">
+    <key id="300" parent="282" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id
 request_id</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="306" parent="282" name="fk_number_request">
+    <foreign-key id="301" parent="282" name="fk_number_request">
       <ColNames>request_id</ColNames>
       <RefSchemaName>hoteldb</RefSchemaName>
       <RefTableName>request</RefTableName>
       <RefColNames>id</RefColNames>
     </foreign-key>
-    <column id="307" parent="283" name="id">
+    <column id="302" parent="283" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="308" parent="283" name="size">
+    <column id="303" parent="283" name="size">
       <Position>2</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="309" parent="283" name="RequestedAt">
+    <column id="304" parent="283" name="RequestedAt">
       <Position>3</Position>
       <DataType>date|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="310" parent="283" name="days">
+    <column id="305" parent="283" name="days">
       <Position>4</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="311" parent="283" name="CustmerId">
+    <column id="306" parent="283" name="CustmerId">
       <Position>5</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="312" parent="283" name="checks_id">
+    <column id="307" parent="283" name="checks_id">
       <Position>6</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="313" parent="283" name="fk_request_checks1_idx">
+    <index id="308" parent="283" name="fk_request_checks1_idx">
       <ColNames>checks_id</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="314" parent="283" name="PRIMARY">
+    <key id="309" parent="283" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id
 checks_id</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="315" parent="283" name="fk_request_checks1">
+    <foreign-key id="310" parent="283" name="fk_request_checks1">
       <ColNames>checks_id</ColNames>
       <RefSchemaName>hoteldb</RefSchemaName>
       <RefTableName>checks</RefTableName>

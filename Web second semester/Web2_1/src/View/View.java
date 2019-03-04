@@ -25,5 +25,6 @@ public class View {
         String password = props.getProperty("password");
 
         Connection con = DriverManager.getConnection(url, username, password);
+
     }
 }
