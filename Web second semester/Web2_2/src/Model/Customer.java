@@ -1,18 +1,27 @@
 package Model;
 
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
-@Table(name="Customer")
+@NamedQueries({
+        @NamedQuery(name="cusromer.customerById",query = "SELECT c FROM Customer c where c.id = ?1"),
+        @NamedQuery(name = "Customer.customerByName", query = "select c FROM Customer c where c.FirstName = ?1")
+})
+
 public class Customer {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id", updatable = false, nullable = false)
     private Long id;
 
+    @Column(name = "First name", nullable = false)
     private String FirstName;
+
+    @Column(name = "Last name", nullable = true)
     private String LastName;
+
+    @Column(name = "request",nullable = false)
     private boolean request;
 
     public Customer(String firstName, String lastName, boolean request) {
