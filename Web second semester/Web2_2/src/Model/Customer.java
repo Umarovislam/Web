@@ -1,6 +1,16 @@
 package Model;
 
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="Customer")
 public class Customer {
+    @Id
+    private Long id;
+
     private String FirstName;
     private String LastName;
     private boolean request;
@@ -9,6 +19,9 @@ public class Customer {
         FirstName = firstName;
         LastName = lastName;
         this.request = request;
+    }
+
+    public Customer() {
     }
 
     public String getFirstName() {
@@ -34,4 +47,5 @@ public class Customer {
     public void setRequest(boolean request) {
         this.request = request;
     }
+
 }

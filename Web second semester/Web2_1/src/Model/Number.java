@@ -1,6 +1,8 @@
 package Model;
 
+@Entity
 public class Number {
+    @Id
     private int no;
     private boolean free;
 
@@ -25,6 +27,6 @@ public class Number {
         this.no = no;
     }
     public String toString(){
-        return "Hotel number: "+ this.no + "\n Free" + free;
+        return "Hotel number: "+ this.no + " Free " + free + "\n";
     }
 }

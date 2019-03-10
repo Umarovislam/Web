@@ -10,9 +10,12 @@ public class View {
         Controller con = new Controller();
         String str = con.getNumList();
         String str1 = con.getCheck();
+        String str2 = con.getReqList();
         System.out.println(str);
         System.out.println("--------------------- Not closed checks------------");
         System.out.println(str1);
+        System.out.println("----------------- Request List -----------------");
+        System.out.println(str2);
     }
 }
      /*   Properties props = new Properties();

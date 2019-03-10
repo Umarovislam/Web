@@ -3,8 +3,10 @@ package Controller;
 import DAO.DAOChecks;
 import DAO.DAOException;
 import DAO.DAOFree;
+import DAO.DAOReq;
 import Model.Check;
 import Model.Number;
+import Model.Request;
 
 import java.util.ArrayList;
 
@@ -47,5 +49,22 @@ public class Controller {
         }
         return str;
     }
-
+    public String getReqList(){
+        String str = "";
+        ArrayList<Request> requests = new ArrayList<>();
+        try{
+            requests = (new DAOReq()).getRequest();
+            if (requests.isEmpty()){
+                return "Number list is empty";
+            }
+            else {
+                for (Request rq : requests){
+                    str += rq.toString();
+                }
+            }
+        } catch (DAOException e) {
+            e.printStackTrace();
+        }
+        return str;
+    }
 }

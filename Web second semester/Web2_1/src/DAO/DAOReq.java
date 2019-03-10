@@ -1,43 +1,37 @@
 package DAO;
 
-import Connections.JDBCConnectionException;
-import Model.Check;
+import Model.Request;
 import connectionPool.ConnectionPoolException;
 import logger.MyLogger;
 
 import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.ArrayList;
 
-/**
- * dao Check class
- */
-public class DAOChecks extends DAO{
-    final String sql1 = "select FirstName, no,sum,closed from checks ch join number n on ch.NoId = n.id join customer cs on n.CustomId = cs.id where closed=false";
+public class DAOReq extends DAO{
+    final String sq3 = "SELECT cs.FirstName,r.size,r.days,r.RequestedAt  FROM request r join customer cs on r.CustmerId = cs.id";
+
 
     /**
-     * constructor for dao
+     * access database
+     *
      * @throws DAOException
      */
-    public DAOChecks() throws DAOException{
-        super(); }
-
-    /**
-     * @return found
-     * @throws DAOException exception
-     */
-    public ArrayList<Check> NotClosedChecks() throws DAOException{
-        ArrayList<Check> uchecks=new ArrayList<>();
+    public DAOReq() throws DAOException {
+        super();
+    }
+    public ArrayList<Request> getRequest() throws DAOException{
+        ArrayList<Request> requests=new ArrayList<>();
         Connection con = null;
-        Statement stmt= null;
+        PreparedStatement ps=null;
         try{
             con = conPool.retrieve();
-            stmt = con.createStatement();
-            ResultSet rs=stmt.executeQuery(sql1);
+            ps = con.prepareStatement(sq3);
+            ResultSet rs = ps.executeQuery();
             while(rs.next())
-                uchecks.add(new Check(rs.getString(1),rs.getInt(2),rs.getInt(3),rs.getBoolean(4)));
+                requests.add(new Request(rs.getString(1),rs.getInt(2),rs.getInt(3),rs.getString(4)));
 
             /// ////////////////////////
         }
@@ -52,7 +46,6 @@ public class DAOChecks extends DAO{
             try {
                 con.close();
                 conPool.putback(con);
-                stmt.close();
             } catch (SQLException e) {
                 MyLogger.log.error("Can't close statement");
                 throw new DAOException("Can't close statement", e);
@@ -63,13 +56,6 @@ public class DAOChecks extends DAO{
                 throw new DAOException("Can't close conn", e);
             }
         }
-        return uchecks;
-    }
-
-    public void createCheck(Check user) throws DAOException{
-    }
-    public void deleteCheck (int id) throws DAOException {
-    }
-    public void updateChek (int id) throws DAOException {
+        return requests;
     }
 }

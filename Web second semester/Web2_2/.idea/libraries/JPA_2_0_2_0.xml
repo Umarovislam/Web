@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="log4j-1.2.17">
+  <library name="JPA 2.0-2.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
