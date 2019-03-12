@@ -33,7 +33,7 @@ public class DAOChecks extends DAO{
             con = conPool.retrieve();
             ps = con.prepareStatement(sql1);
             ResultSet rs = ps.executeQuery();
-            System.out.println(rs);
+            //System.out.println(rs);
             while(rs.next())
                 uchecks.add(new Check(rs.getString(1),rs.getInt(2),rs.getInt(3),rs.getBoolean(4)));
 

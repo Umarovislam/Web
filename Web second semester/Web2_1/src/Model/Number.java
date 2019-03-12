@@ -1,8 +1,6 @@
 package Model;
 
-@Entity
 public class Number {
-    @Id
     private int no;
     private boolean free;
 
