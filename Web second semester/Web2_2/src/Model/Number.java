@@ -4,7 +4,7 @@ package Model;
 import javax.persistence.*;
 
 @Entity
-@NamedQuery(name = "Form.Debtors", query = "select n FROM Number n where n.free=true")
+@NamedQuery(name = "Number.Free", query = "select n FROM Number n where n.free=true")
 @Table(name = "Number")
 public class Number {
 

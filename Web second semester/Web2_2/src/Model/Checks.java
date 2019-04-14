@@ -3,11 +3,11 @@ package Model;
 import javax.persistence.*;
 
 @Entity
-@NamedQuery(name = "Check.NotClosed",query = "select c FROM Check c where c.closed=false")
-@Table(name = "Chekc")
-public class Check {
+@NamedQuery(name = "Checks.NotClosed",query = "select c FROM Checks c where c.closed=false")
+@Table(name = "Chekcs")
+public class Checks {
     /**
-     * @param=closed uses to inform Admin that check was close
+     * @param=closed uses to inform Admin that Checks was close
      * @param=sum represents sum of service
      * @param=NoId id of Number
      * @param=ReqId id of Request
@@ -29,14 +29,14 @@ public class Check {
     @Column(name = "Number", nullable = false)
     private int Num;
 
-    public Check(String firstName , int NoId, int sum, boolean closed){
+    public Checks(String firstName , int NoId, int sum, boolean closed){
         this.closed = closed;
         this.sum = sum;
         this.Num = NoId;
         this.firstName = firstName;
     }
 
-    public Check() {
+    public Checks() {
     }
 
     public boolean isClosed() {

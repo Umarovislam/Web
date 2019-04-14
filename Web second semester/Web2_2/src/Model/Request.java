@@ -13,19 +13,19 @@ public class Request {
      * */
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id", updatable = false, nullable = false)
+    @Column(name = "Id", updatable = false, nullable = false)
     private Long id;
 
     @Column(name = "FirstName", nullable = false)
     private String FirstName;
 
-    @Column(name = "size", nullable = false)
+    @Column(name = "Size", nullable = false)
     private int size;
 
-    @Column(name = "days", nullable = false)
+    @Column(name = "Days", nullable = false)
     private int days;
 
-    @Column(name = "requestAt",nullable = false)
+    @Column(name = "RequestAt",nullable = false)
     private String requsetAt;
 
     public Request() {

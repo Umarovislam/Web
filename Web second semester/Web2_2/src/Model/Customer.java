@@ -5,9 +5,10 @@ import javax.persistence.*;
 
 @Entity
 @NamedQueries({
-        @NamedQuery(name="cusromer.customerById",query = "SELECT c FROM Customer c where c.id = ?1"),
+        @NamedQuery(name="Customer.customerById",query = "SELECT c FROM Customer c where c.id = ?1"),
         @NamedQuery(name = "Customer.customerByName", query = "select c FROM Customer c where c.FirstName = ?1")
 })
+
 
 public class Customer {
     @Id
@@ -15,10 +16,10 @@ public class Customer {
     @Column(name = "id", updatable = false, nullable = false)
     private Long id;
 
-    @Column(name = "First name", nullable = false)
+    @Column(name = "FirstName", nullable = false)
     private String FirstName;
 
-    @Column(name = "Last name", nullable = true)
+    @Column(name = "LastName", nullable = true)
     private String LastName;
 
     @Column(name = "request",nullable = false)
