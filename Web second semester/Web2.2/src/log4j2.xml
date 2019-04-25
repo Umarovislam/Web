@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="warn" name="Lab3" packages="">
+    <appenders>
+        <File name="Main" fileName="logs/main.log">
+            <PatternLayout pattern="%d{ISO8601} [%-5p] in %M(%F:%L) - %m%n"/>
+        </File>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{ABSOLUTE} [%-5p] in %M(%F:%L) - %m%n"/>
+        </Console>
+    </appenders>
+    <loggers>
+        <Logger name="logger" level="info">
+            <appender-ref ref="Main"/>
+            <!--<appender-ref ref="STDOUT"/>-->
+        </Logger>
+        <root level="info">
+            <appender-ref ref="Main"/>
+            <!--     <appender-ref ref="STDOUT"/> -->
+        </root>
+    </loggers>
+</configuration>
