@@ -3,7 +3,7 @@ package BL;
 import javax.persistence.*;
 
 
-@NamedQuery(name = "Request.getReqs",query = "select r.FirstName, r.size, r.days, r.requsetAt from Request r")
+@NamedQuery(name = "Request.getReqs",query = "select r from Request r")
 @Entity(name = "Request")
 @Table(name = "Request")
 public class Request {
@@ -17,9 +17,6 @@ public class Request {
     @Column(name = "Id", updatable = false, nullable = false)
     private Long id;
 
-    @Column(name = "FirstName", nullable = false)
-    private String FirstName;
-
     @Column(name = "Size", nullable = false)
     private int size;
 
@@ -31,15 +28,15 @@ public class Request {
 
     public Request() {
     }
-    public Request(String fn, int size, int days, String reqAt){
-        this.FirstName = fn;
+    public Request(int size, int days, String reqAt){
+        //this.FirstName = fn;
         this.size = size;
         this.days = days;
         this.requsetAt = reqAt;
     }
-    public Request(Long id,String fn, int size, int days, String reqAt){
+    public Request(Long id, int size, int days, String reqAt){
         this.id = id;
-        this.FirstName = fn;
+       // this.FirstName = fn;
         this.size = size;
         this.days = days;
         this.requsetAt = reqAt;
@@ -68,16 +65,9 @@ public class Request {
         this.requsetAt = requsetAt;
     }
 
-    public String getFirstName() {
-        return FirstName;
-    }
-
-    public void setFirstName(String firstName) {
-        FirstName = firstName;
-    }
 
     @Override
     public String toString() {
-        return "First Name " + getFirstName() + " room size " + getSize()+ " days "+getDays() + " Date At" + getRequsetAt() + "\n";
+        return " room size " + getSize()+ " days "+getDays() + " Date At" + getRequsetAt() + "\n";
     }
 }

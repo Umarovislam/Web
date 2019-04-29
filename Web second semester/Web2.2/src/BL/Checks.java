@@ -6,7 +6,7 @@ import java.io.Serializable;
 @NamedQuery(name = "Checks.NotClosedChecks",
         query = "select c from Checks c where c.closed = false")
 @Entity(name = "Checks")
-@Table(name = "Chekcs")
+@Table(name = "Checks")
 public class Checks implements Serializable {
     /**
      * @param=closed uses to inform Admin that Checks was close

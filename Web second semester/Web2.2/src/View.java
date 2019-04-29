@@ -7,13 +7,13 @@ import java.sql.SQLException;
 public class View {
     public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
         Controller con = new Controller();
-        String str1 = con.getCheck();
         String str = con.getNumList();
+        String str1 =  con.getCheck();
         String str2 = con.getReqList();
         System.out.println("-------------------- Free Numbers List --------------");
         System.out.println(str);
         System.out.println("--------------------- Not closed checks------------");
-  //      System.out.println(str1);
+        System.out.println(str1);
         System.out.println("----------------- Request List -----------------");
         System.out.println(str2);
     }
