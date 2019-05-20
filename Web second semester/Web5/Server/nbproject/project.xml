@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.earproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2ee-earproject/2">
+            <name>Server</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <web-module-libraries/>
+            <web-module-additional-libraries>
+                <library>
+                    <file>${libs.eclipselink.classpath}</file>
+                    <path-in-war>/</path-in-war>
+                </library>
+                <library>
+                    <file>${libs.hibernate4-persistence.classpath}</file>
+                    <path-in-war>/</path-in-war>
+                </library>
+                <library>
+                    <file>${libs.jaxws21.classpath}</file>
+                    <path-in-war>/</path-in-war>
+                </library>
+                <library>
+                    <file>${libs.MySQLDriver.classpath}</file>
+                    <path-in-war>/</path-in-war>
+                </library>
+                <library>
+                    <file>${libs.jpa20-persistence.classpath}</file>
+                    <path-in-war>/</path-in-war>
+                </library>
+            </web-module-additional-libraries>
+        </data>
+    </configuration>
+</project>
